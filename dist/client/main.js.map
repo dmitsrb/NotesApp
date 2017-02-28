@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"main.js","sourcesContent":[]}
+{"version":3,"sources":["../../client/main.js"],"names":[],"mappings":";;;;;;;;;;qBAMkB,OAAO;;;;wBACJ,WAAW","file":"main.js","sourcesContent":["/**\r\n * Created by Dmitry on 2/28/2017.\r\n */\r\n\r\n/**The main file of my application. Entry point to all application**/\r\n\r\nimport React from 'react';\r\nimport ReactDom from 'react-dom';\r\n\r\n"]}
