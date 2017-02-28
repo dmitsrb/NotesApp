@@ -2,7 +2,9 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/server/models/Note.js" />
         <item url="file://$PROJECT_DIR$/dist/client/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/server/utils/DataBaseUtils.js" />
         <item url="file://$PROJECT_DIR$/dist/server/app.js" />
       </sourceFilesUrls>
     </properties>
@@ -13,7 +15,9 @@
       <root url="file://$PROJECT_DIR$/NotesApp/dist/server/app.js" />
       <root url="file://$PROJECT_DIR$/NotesApp/dist/server/utils/DataBaseUtils.js" />
       <root url="file://$PROJECT_DIR$/NotesApp/dist/client/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/models/Note.js" />
       <root url="file://$PROJECT_DIR$/dist/client/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/server/utils/DataBaseUtils.js" />
       <root url="file://$PROJECT_DIR$/dist/server/app.js" />
     </CLASSES>
     <SOURCES />
