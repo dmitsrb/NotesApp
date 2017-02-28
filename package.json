@@ -1,0 +1,26 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Small notes application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitsrb/NotesApp.git"
+  },
+  "author": "DmitrySerebrennikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitsrb/NotesApp/issues"
+  },
+  "homepage": "https://github.com/dmitsrb/NotesApp#readme",
+
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5",
+    "promise": "^7.1.1"
+  }
+}
