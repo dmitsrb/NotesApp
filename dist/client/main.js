@@ -10,9 +10,9 @@ var _reactDom = require('react-dom');
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
-_reactDom2['default'].render(_react2['default'].createElement(
-     'h1',
-     null,
-     'Notes'
-), document.getElementById('mount-point'));
+var _componentsAppJsx = require('./components/App.jsx');
+
+var _componentsAppJsx2 = _interopRequireDefault(_componentsAppJsx);
+
+_reactDom2['default'].render(_react2['default'].createElement(_componentsAppJsx2['default'], null), document.getElementById('mount-point'));
 //# sourceMappingURL=main.js.map
